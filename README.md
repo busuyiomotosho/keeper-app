@@ -6,9 +6,9 @@ The Keeper App is a note-taking CRUD application built with with the MERN Stack 
 
 ## Clone the repository
 
-bash
+```bash
 git clone https://github.com/busuyi-omotosho/keeper-app.git
-bash
+```
 
 ## cd into the project folder
 
