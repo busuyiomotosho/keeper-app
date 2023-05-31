@@ -6,7 +6,7 @@ const copyright = date.getFullYear();
 const Footer = () => {
     return (<footer>
         <p>
-            Copyright &copy; {copyright}
+            Designed by Busuyi Omotosho. Copyright &copy; {copyright}
         </p>
     </footer>)
 };
